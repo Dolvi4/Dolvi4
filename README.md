@@ -1,7 +1,7 @@
 # Hii 👋 I'm Dolvi
 
 ## 👩‍💻 About Me
-- 🎓 Graduate in Computer Science & Engineering  
+- 🎓 Graduate in Computer Science & Engineering with specialization in Data Science 
 - 🌱 Currently exploring **Cybersecurity**, **Machine Learning**, and **Q  
 - 💻 Skil
 - 📊 Passionate about Research & Development  
